@@ -1,3 +1,5 @@
+2020-05-27 (1.8.7)
+  * Fix Ruby 2.7 deprecation warnings
 2017-01-13 (1.8.6)
   * Be compatible with ancient ruby 1.8 (maybe?)
 2015-09-11 (1.8.5)
